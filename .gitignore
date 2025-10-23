@@ -17,3 +17,5 @@ __pycache__/
 .local/
 .docker/
 .helm/
+Folder2/File2
+Folder3/
