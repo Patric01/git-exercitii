@@ -1,0 +1,19 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Limbaje comune
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+
+# Caches & tool dirs (NU le vrei in repo)
+.cache/
+.kube/
+.local/
+.docker/
+.helm/
